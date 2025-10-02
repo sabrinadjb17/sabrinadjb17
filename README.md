@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Sabrina de Jesus Braz.👋
 
-- 🌱 Estudando Python, HTML e CSS
+- 🌱 Estudando Python, HTML e CSS, JavaScript, SQL.
 - 😄 Pronomes: ela/dela
 
 <div>
