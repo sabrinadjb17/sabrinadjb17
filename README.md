@@ -1,7 +1,8 @@
-## Olá! Eu sou a Sabrina de Jesus Braz.👋
+## Ciência da Computação | Estágio em Programação | Desenvolvimento Web 
 
 - 🌱 Estudando Python, HTML, CSS, JavaScript e SQL.
 - 😄 Pronomes: ela/dela
+- ❤️ Sobre mim: Estudante do 2º semestre de Bacharelado em Ciência da Computação no Centro Universitário FEI. Sou apaixonada por tecnologia e estou constantemente buscando evoluir minhas habilidades em front-end e back-end. Fique à vontade para explorar meus projetos e entrar em contato por e-mail😉.
 
 <div>
   <a href="https://github.com/sabrinadjb17">
