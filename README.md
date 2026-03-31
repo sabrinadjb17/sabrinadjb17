@@ -1,4 +1,4 @@
-## Ciência da Computação | Estágio em Programação | Desenvolvimento Web 
+## Ciência da Computação | Salesforce | Análise de Dados | Finanças Corporativas 
 
 - 🌱 Estudando Python, HTML, CSS, JavaScript e SQL.
 - 😄 Pronomes: ela/dela
