@@ -1,6 +1,6 @@
 ## Ciência da Computação | Salesforce | Análise de Dados 
 
-- 🌱 Linguagens: Python, HTML, CSS, JavaScript, SQL, Apex, LWC, SOQL, C
+- 🌱 Linguagens: Python, HTML, CSS, JavaScript, SQL, Apex, LWC, SOQL, C. Java, React
 - 😄 Pronomes: ela/dela
 - ❤️ Sobre mim: Estudante do 3º semestre de Bacharelado em Ciência da Computação no Centro Universitário FEI. Sou apaixonada por tecnologia e estou constantemente buscando evoluir minhas habilidades em front-end e back-end. Fique à vontade para explorar meus projetos e entrar em contato por e-mail😉.
 
